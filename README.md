@@ -1,4 +1,4 @@
-#### ToDo list
+# ToDo list
 
 Mise en place d'une todo list avec enregistrement dans le local storage .
 
